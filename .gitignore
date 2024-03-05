@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+dataset/FashionMNIST/
+dataset/MNIST/
+weights/FashionMNIST/
+weights/MNIST/
